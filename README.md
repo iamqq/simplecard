@@ -1,3 +1,3 @@
 simplecard
 ==========
-It is attempt to create one page site for small buisness
+It is an attempt to create one page site for small buisness
