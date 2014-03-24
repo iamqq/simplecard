@@ -20,23 +20,16 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "/C/Users/rsv/Documents/GitHub/fb2lib/parse.py",
 			"settings":
 			{
-				"buffer_size": 22,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.htm",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
+				"buffer_size": 1635,
+				"line_ending": "Windows",
+				"name": "import sys, os, zipfile, hashlib, pprint"
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
 		"height": 0.0,
@@ -60,6 +53,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/rsv/AppData/Local/SAP/SAP GUI/tmp/531411C5065F84E0E10080000A021A68/ummc.js.txt",
+		"/C/Users/rsv/Documents/GitHub/simplecard/README.md",
+		"/C/Users/rsv/Documents/GitHub/simplecard/index.htm",
+		"/C/Users/rsv/Documents/GitHub/simplecard/css/main.css",
 		"/C/Users/rsv/Desktop/analog 6.0/SETUP.txt",
 		"/C/Users/rsv/Desktop/analog 6.0/errors.txt",
 		"/C/Users/rsv/AppData/Local/SAP/SAP GUI/tmp/531670E5B6AF8410E10080000A021A68/ummc.js.txt",
@@ -172,54 +169,31 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
+					"file": "/C/Users/rsv/Documents/GitHub/fb2lib/parse.py",
 					"settings":
 					{
-						"buffer_size": 22,
+						"buffer_size": 1635,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								67,
+								72
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.htm",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"auto_name": "import sys, os, zipfile, hashlib, pprint",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -261,6 +235,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 196.0
+	},
 	"replace":
 	{
 		"height": 0.0
