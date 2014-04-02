@@ -1,8 +1,20 @@
-/* main styles */
+﻿/* main styles */
 html{
 	margin: 0;
 	padding: 0;
 }
 .test{
 color: red;
+}
+body {
+        color: maroon;
+        background-color: Wheat;
+}
+div h1 {
+	font-family: Serif, Verdana;
+	text-shadow: 5px 5px 5px Tan;
+}
+div h2 {
+	font-family: Serif, Verdana;
+	text-shadow: 5px 5px 5px Tan;
 }
