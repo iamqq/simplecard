@@ -3,9 +3,44 @@ html{
 	margin: 0;
 	padding: 0;
 }
-.test{
-color: red;
+.cl_company{
+background: url(../img/red.png);
 }
+.cl_contacts{
+background: url(../img/blue.png);
+}
+.cl_works{
+background: url(../img/yellow.png);
+}
+.cl_vacancies{
+background: url(../img/green.png);
+}
+
+.cl_nav{
+  font-size:0.7em;
+  list-style-type:none;
+  display:inline-block;
+}
+  .cl_nav li{
+    float:left;
+    width:120px;
+    margin-top:-10000px
+  }
+    .cl_nav li a{
+      width:120px;
+      text-decoration:none;
+      text-align:center;
+      position:relative;
+      float:left;
+      margin-right:-119px;
+      margin-top:10000px
+    }
+    .cl_nav li a:hover, .cl_nav li a:focus{
+      background:#DCE2FC;
+      margin-right:0;
+      color:#355C96
+    }
+
 body {
         color: maroon;
         background-color: Wheat;
