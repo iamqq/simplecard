@@ -1,5 +1,63 @@
-/* main styles */
+﻿/* main styles */
 html{
 	margin: 0;
 	padding: 0;
+	height: 100%;
+}
+
+body{
+        color: maroon;
+        background-color: Wheat;
+	min-height: 100%;
+}
+.cl_company{
+background: url(../img/red.png);
+}
+.cl_contacts{
+background: url(../img/blue.png);
+}
+.cl_works{
+background: url(../img/yellow.png);
+}
+.cl_vacancies{
+background: url(../img/green.png);
+}
+
+.cl_tab{
+	min-height: 95%;
+}
+.cl_nav{
+  font-size:0.7em;
+  list-style-type:none;
+  display:inline-block;
+  margin: 0px;
+  padding: 0px;
+}
+  .cl_nav li{
+    float:left;
+    width:120px;
+  }
+    .cl_nav li a{
+      width:120px;
+      height: 20px;
+      text-decoration:none;
+      text-align:center;
+      position:relative;
+      float:left;
+    }
+    .cl_nav li a:hover, .cl_nav li a:focus{
+      background:#DCE2FC;
+      margin-right:0;
+      color:#355C96
+    }
+
+div h1 {
+	font-family: Serif, Verdana;
+	text-shadow: 5px 5px 5px Tan;
+	margin: 0;
+}
+div h2 {
+	font-family: Serif, Verdana;
+	text-shadow: 5px 5px 5px Tan;
+	margin: 0;
 }

@@ -1,7 +1,44 @@
-<html>
+﻿<html>
 <head>
+	<meta charset="utf-8">
+	<title>Simplecard project</title>
+	<link rel="stylesheet" href="css/main.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>  
+	<script type="text/javascript" src="./js/main.js"></script>
 </head>
 <body>
-Hello world!
+	<ul class="cl_nav">
+	  <li class="cl_company"><a href="#" onclick="show_tab('#tab_company');">Компания</a></li>
+	  <li class="cl_contacts"><a href="#" onclick="show_tab('#tab_contacts');">Контакты</a></li>
+	  <li class="cl_works"><a href="#" onclick="show_tab('#tab_works');">Работы</a></li>
+	  <li class="cl_vacancies"><a href="#" onclick="show_tab('#tab_vacancies');">Вакансии</a></li>
+	</ul>
+	<div class="cl_tab cl_company" id="tab_company">
+	  <h1>Company name</h1>
+	    <p>a litle history. like where it came from.</p>
+		<img src="img/company.jpg">
+	</div>
+	<div class="cl_tab cl_contacts" id="tab_contacts">
+	  <h2>Контакты</h2>
+	   <p>leave your e-mail here, we'll get to you as soon as we can.Thank you!</p>
+	   <!--add javascript file with a addIn form -->
+		<img src="img/contacts.jpg">
+	</div>
+	<div class="cl_tab cl_works" id="tab_works">
+	  <h2>Types of work</h2>
+	    <ul>
+	      <li>we do that</li>
+	      <li>and that</li>
+	      <li>and that</li>
+	      <li>and we also do that</li>
+	      <li>and if you'd like that too</li>
+	    </ul>
+	<img src="img/works.jpg">
+	</div>
+	<div class="cl_tab cl_vacancies" id="tab_vacancies">
+	  <h2>Вакансии</h2>
+	  <p>We are looking for new blood.</p>
+	<img src="img/vacancies.jpg">
+	</div>
 </body>
 </html>
