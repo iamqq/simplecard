@@ -19,24 +19,19 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/rsv/Documents/GitHub/fb2lib/parse.py",
-			"settings":
-			{
-				"buffer_size": 1635,
-				"line_ending": "Windows",
-				"name": "import sys, os, zipfile, hashlib, pprint"
-			}
-		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"",
+				"Project: Close"
+			]
 		],
-		"width": 0.0
+		"width": 392.0
 	},
 	"console":
 	{
@@ -53,6 +48,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/rsv/Desktop/z.txt",
+		"/C/Users/rsv/Desktop/file.txt",
+		"/C/Users/rsv/Desktop/zzz.css",
+		"/C/Users/rsv/Documents/GitHub/fb2lib/parse.py",
+		"/C/Users/rsv/Desktop/z1.txt",
 		"/C/Users/rsv/AppData/Local/SAP/SAP GUI/tmp/531411C5065F84E0E10080000A021A68/ummc.js.txt",
 		"/C/Users/rsv/Documents/GitHub/simplecard/README.md",
 		"/C/Users/rsv/Documents/GitHub/simplecard/index.htm",
@@ -169,38 +169,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/rsv/Documents/GitHub/fb2lib/parse.py",
-					"settings":
-					{
-						"buffer_size": 1635,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67,
-								72
-							]
-						],
-						"settings":
-						{
-							"auto_name": "import sys, os, zipfile, hashlib, pprint",
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
