@@ -61,3 +61,11 @@ div h2 {
 	text-shadow: 5px 5px 5px Tan;
 	margin: 0;
 }
+
+.single-item{
+  width: 342px;
+  margin: 30px; 
+}
+.myslickimg{
+  width: 342px;
+}
